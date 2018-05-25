@@ -1,2 +1,3 @@
 WorkerServer:
-  ServerList: 90000
+  ServerIp: 192.168.1.72
+  ServerPort: 9001
