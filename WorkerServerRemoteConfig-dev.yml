@@ -1,2 +1,6 @@
 WorkerServer:
-  ServerList: 8888888
+  ServerList: 
+    - Host: 127.0.0.1
+      Port: 9004
+    - Host: 127.0.0.1
+      Port: 9003
